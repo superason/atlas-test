@@ -1,0 +1,120 @@
+@media screen and (max-width: 760px) {
+    .container, .container-2, .container-3, .container-4 {
+        padding: 0 20px;
+    }
+    .col-100-xs {
+        width: 100% !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .col-50-xs {
+        width: 50% !important;
+    }
+    .logo {
+        width: 150px;
+    }
+    header {
+        padding: 16px 0;
+    }
+    .h-icon:not(:last-child) {
+        margin-right: 24px;
+    }
+    .hidden-xs {
+        display: none !important;
+    }
+    .visible-xs {
+        display: block !important;
+    }
+    .title-xl {
+        font-size: 50px;
+        line-height: 56px;
+    }
+    .title {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .subtitle {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .text-xl {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .text {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .text-xs {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .section {
+        padding: 60px 0;
+    }
+    .screen-section {
+        height: fit-content;
+    }
+    .section-block {
+        margin-top: 40px;
+    }
+    .top-section {
+        padding: 140px 0 100px;
+    }
+    .special-block {
+        left: 0;
+        right: 0;
+    }
+    .btn {
+        padding: 20px 36px;
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .top-links-wrap {
+        padding-bottom: 18px;
+    }
+    .special-block-info {
+        padding: 24px;
+    }
+    .btn-wrap {
+        margin-top: 40px;
+    }
+    .section-xs-col-right {
+        margin-top: 40px;
+    }
+    .special-block-colored .special-block-pic {
+        order: -1;
+    }
+    .theme-tab {
+        padding: 12px 16px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .facilities-item-info {
+        right: 0;
+    }
+    .f-logo img {
+        width: 224px;
+    }
+    .f-text {
+        margin-top: 24px;
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .special-block-left .special-block-info {
+        padding: 24px;
+    }
+    .support-btn-wrap {
+        padding: 24px;
+    }
+    .support-info {
+        margin-top: 40px;
+    }
+    .map iframe {
+        height: 300px;
+    }
+    .f-contacts-wrap {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+}

@@ -1,0 +1,21 @@
+# WordPress
+*.log
+/WP Project/wp-*.php
+/WP Project/index.php
+/WP Project/xmlrpc.php
+/WP Project/license.txt
+/WP Project/readme.html
+/WP Project/sitemap.xml
+/WP Project/sitemap.xml.gz
+
+/WP Project/backup*
+
+/WP Project/wp-admin/
+/WP Project/wp-includes/
+
+/WP Project/wp-content/*
+!/WP Project/wp-content/themes/
+#wp-content/themes/*
+
+!/WP Project/wp-content/plugins/
+#wp-content/plugins/*
