@@ -11,9 +11,10 @@
 /WP Project/backup*
 
 /WP Project/wp-admin/
-!/WP Project/wp-includes/
+/WP Project/wp-includes/
 
 /WP Project/wp-content/*
+!/WP Project/wp-content/uploads/
 !/WP Project/wp-content/themes/
 #wp-content/themes/*
 
